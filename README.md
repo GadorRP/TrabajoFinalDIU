@@ -52,62 +52,57 @@ Comencemos con las posibles mejoras que pueden tener los buscadores.
 >>>Al ser una página enfocada al turismo añadir otros idiomas al website.
 >>>
 >>>Añadir en la sección de contacto cuánto tiempo puede pasar hasta proporcionar una respuesta.
-Diseño de la página web
+
+## Diseño de la página web
 Para comenzar realizamos un checklist del diseño de la página web para obtener una visión básica de la página. A continuación expondré mis conclusiones, el archivo con el análisis detallado se encuentra en el repositorio de Github. 
 
 Inturmancha presenta un diseño claro y sencillo. Sus elementos se encuentran ubicados en función de un eje central de simetría y con una estructura de información de contacto, menú principal, información y pie de página.
 
-A continuación se listan los fallos de diseño encontrados:
+### A continuación se listan los fallos de diseño encontrados:
 
-Textos que no son demasiado legibles debido al color de fondo o al contraste de este con el color del texto.
+>>>Textos que no son demasiado legibles debido al color de fondo o al contraste de este con el color del texto.
+>>>
+>>>No aparición del logo de la página en algunos navegadores como Firefox.
+>>>
+>>>Acceso al buscador por nombre solo en la parte superior de la página.
+>>>
+>>>La ubicación de algunos botones depende de la longitud de la línea de texto anterior.
+>>>
+>>>Diseño poco llamativo debido a la predominancia del gris oscuro para texto y blanco para el fondo
 
-No aparición del logo de la página en algunos navegadores como Firefox.
-
-Acceso al buscador por nombre solo en la parte superior de la página.
-
-La ubicación de algunos botones depende de la longitud de la línea de texto anterior.
-
-Diseño poco llamativo debido a la predominancia del gris oscuro para texto y blanco para el fondo
-
-
-
-Imagen tomada utilizando Mozilla Firefox donde no se muestra el logo impidiendo ir al inicio
-
-
-Botón donde la descripción del mismo no es legible debido al contraste de colores
-
-Posición variable del botón dependiendo de la longitud de la línea anterior rompiendo la consistencia de la página
+(Hay imagenes en el PDF enseñando los fallos)
 	
 
-Por otro lado también se han encontrado buenas tendencias de diseño:
-Botones de acción resaltados mediante sus colores.
-
-Menú fijado en la parte superior para un acceso rápido a las demás secciones.
-
-Uso de imágenes muy grandes para transmitir información.
-
-Botones flotantes en las imágenes para redirigir a la sección mostrada en la imagen.
-
-Diseño sencillo sin distracciones.
-
-Carruseles de imágenes lo que da dinamismo a la página aunque cada vez se encuentran más en desuso.
-
-Logo compuesto por el nombre de la página y sus colores principales.
+### Por otro lado también se han encontrado buenas tendencias de diseño:
+>>>Botones de acción resaltados mediante sus colores.
+>>>
+>>>Menú fijado en la parte superior para un acceso rápido a las demás secciones.
+>>>
+>>>Uso de imágenes muy grandes para transmitir información.
+>>>
+>>>Botones flotantes en las imágenes para redirigir a la sección mostrada en la imagen.
+>>>
+>>>Diseño sencillo sin distracciones.
+>>>
+>>>Carruseles de imágenes lo que da dinamismo a la página aunque cada vez se encuentran más en desuso.
+>>>
+>>>Logo compuesto por el nombre de la página y sus colores principales.
 
 Los colores usados en la página están conformados por naranja, verde, morado y gris para las letras contando con el blanco para el fondo. Aunque estos colores son muy llamativos son usados en partes muy localizadas de la página como iconos o fondos de botones por lo que la página en sí no llama la atención del usuario. El color naranja se relaciona con la diversión y la actividad mientras que el verde se relaciona con la naturaleza por lo que ambos están perfectamente elegidos para una página de turismo en el entorno rural como es Inturmancha. Debido también al poco uso del color de la página las personas que sufren de deficiencias en la percepción de este podrán visitar el website de forma normal.
 
-Como conclusión la página presenta un diseño adecuado aunque poco llamativo para invitar al usuario a mantenerse más tiempo en la página y visitarla. Se han tomado buenas ideas como la fijación del menú en la parte superior al hacer scroll o el uso de fotos grandes explicativas con botones flotantes en su interior. Presenta algunos aspectos a mejorar pero el diseño es claro y sencillo y transmite el objetivo de la página.
+### Conclusión
+>>>Como conclusión la página presenta un diseño adecuado aunque poco llamativo para invitar al usuario a mantenerse más tiempo en la página y visitarla. Se han tomado buenas ideas como la fijación del menú en la parte superior al hacer scroll o el uso de fotos grandes explicativas con botones flotantes en su interior. Presenta algunos aspectos a mejorar pero el diseño es claro y sencillo y transmite el objetivo de la página.
 
-Recomendaciones para mejorar el diseño de la página
-Cambiar el color de fondo o de texto de algunas secciones para permitir la lectura.
-
-Ofrecer un modo oscuro ya que el color blanco puede predominar demasiado para algunos usuarios.
-
-Incluir el buscador por nombre en la barra de menú fijada en el scroll.
-
-Fijar una posición para los botones y no depender de la longitud de la línea de texto.
-
-Incorporar más partes coloreadas para impresionar al usuario en una primera visita.
-
-Aparición del logo en todos los tipos de navegadores.
+###Recomendaciones para mejorar el diseño de la página
+>>>Cambiar el color de fondo o de texto de algunas secciones para permitir la lectura.
+>>>
+>>>Ofrecer un modo oscuro ya que el color blanco puede predominar demasiado para algunos usuarios.
+>>>
+>>>Incluir el buscador por nombre en la barra de menú fijada en el scroll.
+>>>
+>>>Fijar una posición para los botones y no depender de la longitud de la línea de texto.
+>>>
+>>>Incorporar más partes coloreadas para impresionar al usuario en una primera visita.
+>>>
+>>>Aparición del logo en todos los tipos de navegadores.
 
