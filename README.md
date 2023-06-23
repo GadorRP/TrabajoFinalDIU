@@ -18,11 +18,17 @@ Diseño adaptativo a diferentes tamaños de pantalla.
 
 ## Puntos débiles de la página:
 >>> No se ordenan las búsquedas ni las actividades por ningún criterio.
+>>> 
 >>> El buscador por nombre es diferente al de provincias
->>>La elección de fecha no siempre está disponible. En caso de que no lo esté se debe reservar a través de un formulario
->>>No es posible volver a la página de inicio a través del menú principal en firefox
->>>No están disponibles varios idiomas
->>>Diferencias entre google chrome y mozilla firefox
+>>> 
+>>> La elección de fecha no siempre está disponible. En caso de que no lo esté se debe reservar a través de un formulario
+>>> 
+>>> No es posible volver a la página de inicio a través del menú principal en firefox
+>>> 
+>>> No están disponibles varios idiomas
+>>> 
+>>> Diferencias entre google chrome y mozilla firefox
+>>> 
 
 Como podemos observar los dos primeros puntos débiles están presentes en la acción principal de búsqueda y reserva de una actividad por lo que puede perjudicar de forma significativa la experiencia de usuario.
 
