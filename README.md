@@ -2,10 +2,10 @@
 Voy a analizar la página web InturMancha. En este fichero expondré el análisis de la página web. 
 
 # Descripción del website
->>>La página web InturMancha ofrece la búsqueda y reserva de diferentes actividades por todo el territorio de Castilla La Mancha. Ofrece distintos tipos de >>>experiencias para adaptarse a diferentes tipos de usuario. Además ofrece reseñas de las actividades y enlaces a redes sociales.
+>>>La página web InturMancha ofrece la búsqueda y reserva de diferentes actividades por todo el territorio de Castilla La Mancha. Ofrece distintos tipos de experiencias para adaptarse a diferentes tipos de usuario. Además ofrece reseñas de las actividades y enlaces a redes sociales.
 
 # Comparación con otras páginas web
->>>No he encontrado otras páginas web que ofrezcan el mismo servicio que inturMancha por lo que la comparación no es posible. Una aproximación a su competencia >>>podría ser tripadvisor ofreciendo tours y experiencias por la provincia. Al ser una página web con un mayor presupuesto y mucho más conocida no presenta >>>grandes deficiencias en su diseño ni de usabilidad al reservar u obtener información. Aun así no da la posibilidad de reservar las mismas experiencias de >>>inturMancha ya que son extremadamente locales y no están incluidas en grandes webs. 
+>>>No he encontrado otras páginas web que ofrezcan el mismo servicio que inturMancha por lo que la comparación no es posible. Una aproximación a su competencia podría ser tripadvisor ofreciendo tours y experiencias por la provincia. Al ser una página web con un mayor presupuesto y mucho más conocida no presenta grandes deficiencias en su diseño ni de usabilidad al reservar u obtener información. Aun así no da la posibilidad de reservar las mismas experiencias de inturMancha ya que son extremadamente locales y no están incluidas en grandes webs. 
 
 # Usabilidad y experiencia de usuario
 Para comenzar he realizado un checklist de usabilidad de la página web para obtener una primera impresión de sus puntos fuertes y débiles. A continuación expondré mis conclusiones, el archivo con el análisis detallado se encuentra en Github. 
@@ -16,13 +16,13 @@ Se proporcionan diferentes vías de contacto y dentro de la página se encuentra
 Es posible buscar por provincia y nombre. También se dividen las experiencias por tipo de usuario: familias, colegios,etc.
 Diseño adaptativo a diferentes tamaños de pantalla.
 
-Puntos débiles de la página:
-No se ordenan las búsquedas ni las actividades por ningún criterio.
-El buscador por nombre es diferente al de provincias
-La elección de fecha no siempre está disponible. En caso de que no lo esté se debe reservar a través de un formulario
-No es posible volver a la página de inicio a través del menú principal en firefox
-No están disponibles varios idiomas
-Diferencias entre google chrome y mozilla firefox
+## Puntos débiles de la página:
+>>> No se ordenan las búsquedas ni las actividades por ningún criterio.
+>>> El buscador por nombre es diferente al de provincias
+>>>La elección de fecha no siempre está disponible. En caso de que no lo esté se debe reservar a través de un formulario
+>>>No es posible volver a la página de inicio a través del menú principal en firefox
+>>>No están disponibles varios idiomas
+>>>Diferencias entre google chrome y mozilla firefox
 
 Como podemos observar los dos primeros puntos débiles están presentes en la acción principal de búsqueda y reserva de una actividad por lo que puede perjudicar de forma significativa la experiencia de usuario.
 
