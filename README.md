@@ -93,7 +93,7 @@ Los colores usados en la página están conformados por naranja, verde, morado y
 ### Conclusión
 >>>Como conclusión la página presenta un diseño adecuado aunque poco llamativo para invitar al usuario a mantenerse más tiempo en la página y visitarla. Se han tomado buenas ideas como la fijación del menú en la parte superior al hacer scroll o el uso de fotos grandes explicativas con botones flotantes en su interior. Presenta algunos aspectos a mejorar pero el diseño es claro y sencillo y transmite el objetivo de la página.
 
-###Recomendaciones para mejorar el diseño de la página
+### Recomendaciones para mejorar el diseño de la página
 >>>Cambiar el color de fondo o de texto de algunas secciones para permitir la lectura.
 >>>
 >>>Ofrecer un modo oscuro ya que el color blanco puede predominar demasiado para algunos usuarios.
