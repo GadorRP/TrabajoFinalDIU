@@ -1,11 +1,13 @@
 # TrabajoFinalDIU
 Voy a analizar la página web InturMancha. En este fichero expondré el análisis de la página web. 
 
->>> Descripción del website
-La página web InturMancha ofrece la búsqueda y reserva de diferentes actividades por todo el territorio de Castilla La Mancha. Ofrece distintos tipos de experiencias para adaptarse a diferentes tipos de usuario. Además ofrece reseñas de las actividades y enlaces a redes sociales.
-Comparación con otras páginas web
-No he encontrado otras páginas web que ofrezcan el mismo servicio que inturMancha por lo que la comparación no es posible. Una aproximación a su competencia podría ser tripadvisor ofreciendo tours y experiencias por la provincia. Al ser una página web con un mayor presupuesto y mucho más conocida no presenta grandes deficiencias en su diseño ni de usabilidad al reservar u obtener información. Aun así no da la posibilidad de reservar las mismas experiencias de inturMancha ya que son extremadamente locales y no están incluidas en grandes webs. 
-Usabilidad y experiencia de usuario
+# Descripción del website
+>>>La página web InturMancha ofrece la búsqueda y reserva de diferentes actividades por todo el territorio de Castilla La Mancha. Ofrece distintos tipos de >>>experiencias para adaptarse a diferentes tipos de usuario. Además ofrece reseñas de las actividades y enlaces a redes sociales.
+
+# Comparación con otras páginas web
+>>>No he encontrado otras páginas web que ofrezcan el mismo servicio que inturMancha por lo que la comparación no es posible. Una aproximación a su competencia >>>podría ser tripadvisor ofreciendo tours y experiencias por la provincia. Al ser una página web con un mayor presupuesto y mucho más conocida no presenta >>>grandes deficiencias en su diseño ni de usabilidad al reservar u obtener información. Aun así no da la posibilidad de reservar las mismas experiencias de >>>inturMancha ya que son extremadamente locales y no están incluidas en grandes webs. 
+
+# Usabilidad y experiencia de usuario
 Para comenzar he realizado un checklist de usabilidad de la página web para obtener una primera impresión de sus puntos fuertes y débiles. A continuación expondré mis conclusiones, el archivo con el análisis detallado se encuentra en Github. 
 
 La página web obtuvo una puntuación de 72 sobre 100. Aunque se encuentra en el rango de una buena experiencia está rozando la experiencia moderada por lo que muestra ciertos problemas de usabilidad. 
