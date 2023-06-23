@@ -32,26 +32,26 @@ Diseño adaptativo a diferentes tamaños de pantalla.
 
 Como podemos observar los dos primeros puntos débiles están presentes en la acción principal de búsqueda y reserva de una actividad por lo que puede perjudicar de forma significativa la experiencia de usuario.
 
-Recomendaciones para mejorar la experiencia y usabilidad
+## Recomendaciones para mejorar la experiencia y usabilidad
 Comencemos con las posibles mejoras que pueden tener los buscadores.
 
-Tener dos buscadores diferentes dependiendo de si se quiere buscar por provincia o por nombre puede provocar confusión al usuario. Por ello se deberían unificar ambos buscadores en uno que incorporaran ambas opciones de búsqueda.
-
-Se podría flexibilizar la opción de búsqueda por provincias permitiendo la elección de más de una .
-
-Los resultados de las búsquedas podrían ordenarse siguiendo algún criterio como más populares, más baratas, etc.
-
-Incorporar sinónimos y palabras clave para la búsqueda por nombre.
-
-A continuación se muestran las recomendaciones para mejorar la experiencia de la página:
-
-Añadir la visualización del logo en las páginas  en Mozilla Firefox para poder volver al inicio.
-
-Al reservar evitar mostrar otra pantalla avisando de posibles fallos en las fechas por sistema. Puede aburrir al usuario que visite varias actividades y ya haya cerrado la ventana varias veces. En cambio poner un mensaje llamativo cercano a las fechas con el mismo fin.
-
-Al ser una página enfocada al turismo añadir otros idiomas al website.
-
-Añadir en la sección de contacto cuánto tiempo puede pasar hasta proporcionar una respuesta.
+>>> Tener dos buscadores diferentes dependiendo de si se quiere buscar por provincia o por nombre puede provocar confusión al usuario. Por ello se deberían unificar ambos buscadores en uno que incorporaran ambas opciones de búsqueda.
+>>> 
+>>>Se podría flexibilizar la opción de búsqueda por provincias permitiendo la elección de más de una .
+>>> 
+>>>Los resultados de las búsquedas podrían ordenarse siguiendo algún criterio como más populares, más baratas, etc.
+>>> 
+>>>Incorporar sinónimos y palabras clave para la búsqueda por nombre.
+>>> 
+>>>A continuación se muestran las recomendaciones para mejorar la experiencia de la página:
+>>>
+>>>Añadir la visualización del logo en las páginas  en Mozilla Firefox para poder volver al inicio.
+>>>
+>>>Al reservar evitar mostrar otra pantalla avisando de posibles fallos en las fechas por sistema. Puede aburrir al usuario que visite varias actividades y ya haya cerrado la ventana varias veces. En cambio poner un mensaje llamativo cercano a las fechas con el mismo fin.
+>>>
+>>>Al ser una página enfocada al turismo añadir otros idiomas al website.
+>>>
+>>>Añadir en la sección de contacto cuánto tiempo puede pasar hasta proporcionar una respuesta.
 Diseño de la página web
 Para comenzar realizamos un checklist del diseño de la página web para obtener una visión básica de la página. A continuación expondré mis conclusiones, el archivo con el análisis detallado se encuentra en el repositorio de Github. 
 
